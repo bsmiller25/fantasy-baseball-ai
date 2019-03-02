@@ -247,7 +247,7 @@ while not stop:
 
     # check stopping conditions
     counter += 1
-    if counter > 100:
+    if counter > 500:
         stop = True
         print("Stop on count")
     if new_winner in winning_nets:
