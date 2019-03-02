@@ -8,6 +8,8 @@ Below is a sample output of the winning team's valuation weights over 500 genera
 
 ![Sample Sims](sim-params.png)   
 
+(Image taken around this [commit](https://github.com/bsmiller25/fantasy-baseball-ai/tree/ab8313312fb9f13cd7a841d00218c9f22f2b07af))
+
 To me this looks like there are central tendencies for each category, however(!), when too many teams adopt a similar strategy, the league becomes vulnerable to an upstart team with different valuation opinions. This different strategy does not work as well when other teams adopt it and the league trends back toward orthodox valuations. 
 
 TODO:
